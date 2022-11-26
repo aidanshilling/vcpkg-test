@@ -1,3 +1,0 @@
-/home/aidan/dev/cpp/vcpkg-test/out/build/CMakeFiles/vcpkg-test.dir
-/home/aidan/dev/cpp/vcpkg-test/out/build/CMakeFiles/edit_cache.dir
-/home/aidan/dev/cpp/vcpkg-test/out/build/CMakeFiles/rebuild_cache.dir

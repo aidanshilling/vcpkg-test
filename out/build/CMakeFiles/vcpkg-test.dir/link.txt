@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/vcpkg-test.dir/src/main.cpp.o -o vcpkg-test  /home/aidan/vcpkg/installed/x64-linux/debug/lib/libGLEWd.a -lGL -lSM -lICE -lX11 -lXext 
